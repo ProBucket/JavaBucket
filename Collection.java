@@ -1,5 +1,5 @@
 import java.util.*;
-public class CollectionsDemo {
+public class Collections {
 
    public static void main(String[] args) {
       // ArrayList 
