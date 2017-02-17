@@ -7,6 +7,6 @@ OException is a class of Exception that was raised due to all Input/Output conti
 throw keyword is used to throw Exception from any method or static block in Java while throws keyword, used in method declaration, denoted which Exception can possible be thrown by this method. They are not interchangeable.
 
 Rule: If you are calling a method that declares an exception, you must either caught or declare the exception.
-http://www.javatpoint.com/throws-keyword-and-difference-between-throw-and-throws
+r: http://www.javatpoint.com/throws-keyword-and-difference-between-throw-and-throws
 
 
