@@ -1,1 +1,4 @@
 
+# OException is a class of Exception that was raised due to all Input/Output contingencies . The file operations like read(), write() and close() etc. are OS dependent and are declared as native methods.
+
+# throw keyword is used to throw Exception from any method or static block in Java while throws keyword, used in method declaration, denoted which Exception can possible be thrown by this method. They are not interchangeable.
